@@ -11,3 +11,5 @@ It is designed to be scalable, stable, and production-ready.
 | Visual | npx playwright test tests/visual |
 | Accessibility | npx playwright test tests/accessibility |
 
+Built an enterprise‑grade Playwright automation framework with API, contract, accessibility, and visual testing, integrated with CI/CD using GitHub Actions.
+
