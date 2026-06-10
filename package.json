@@ -1,0 +1,26 @@
+{
+  "name": "playwright-sdet-framework",
+  "version": "1.0.0",
+  "description": "project1",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prakharagrawal13/playwright-sdet-framework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/prakharagrawal13/playwright-sdet-framework/issues"
+  },
+  "homepage": "https://github.com/prakharagrawal13/playwright-sdet-framework#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.9.2"
+  },
+  "dependencies": {
+    "@axe-core/playwright": "^4.11.3"
+  }
+}
